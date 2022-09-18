@@ -1,6 +1,8 @@
-Create CLI tool for creating invoices
-Create tool for downloading gmail attachements
-Create tool for downloading drive files
-Create (text) UI to call tools
-Store secrets in Keychain
-
+(A) Setup go directory structure +setup @devpchome
+(A) Create makefile +setup @devpchome
+(B) PoC with Keychain and CLI applications to decide for CLI's or monolith +setup @devpchome
+(C) Create (text) UI to call tools +ui @devpchome
+(C) Create tool for creating invoices +invoice @devpchome
+(C) Create tool for downloading drive files +download @devpchome
+(C) Create tool for downloading gmail attachements +download @devpchome
+(C) Store secrets in Keychain +ui @devpchome
