@@ -1,0 +1,6 @@
+Create CLI tool for creating invoices
+Create tool for downloading gmail attachements
+Create tool for downloading drive files
+Create (text) UI to call tools
+Store secrets in Keychain
+
